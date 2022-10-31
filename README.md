@@ -1,2 +1,2 @@
-# my_record
+# MY_RECORD
 In this repository, I'll start a project to build a studying frame and record my studying note.
